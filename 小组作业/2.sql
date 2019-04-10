@@ -1,6 +1,5 @@
 use db_university;
 SET GLOBAL log_bin_trust_function_creators = 1;
-drop function course_ratio;
 
     delimiter //
 create function course_ratio(dept_name varchar(20))
