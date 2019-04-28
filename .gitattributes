@@ -1,6 +1,3 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
-*.cdm linguist-detectable=true
-*.cdm linguist-language=uml
-*.pdm linguist-detectable=true
-*.pdm linguist-language=uml
+*.md linguist-detactable=true
