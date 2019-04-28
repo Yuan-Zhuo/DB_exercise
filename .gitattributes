@@ -1,1 +1,6 @@
-*.sql linguist-language=html
+*.sql linguist-detectable=true
+*.sql linguist-language=MySQL
+*.cdm linguist-language=true
+*.cdm linguist-language=uml
+*.pdm linguist-language=true
+*.pdm linguist-language=uml
